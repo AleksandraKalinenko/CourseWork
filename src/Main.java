@@ -19,7 +19,7 @@ public class Main {
         System.out.println("Сумма затрат на зарплаты в месяц: " + Employee.sumSalary(employee));
         System.out.println("Сотрудник с минимальной зарплатой: " + Employee.findEmployeeWithMinSalary(employee));
         System.out.println("Сотрудник с максимальной зарплатой: " + Employee.findEmployeeWithMaxSalary(employee));
-        System.out.println("Среднее значение зарплат: " + Employee.calculateAverageSalary(employee));
+        System.out.println("Среднее значение зарплат:  " + Employee.calculateAverageSalary(employee));
         Employee.printAllEmployeesName(employee);
 //        System.out.println("Введите аргумент индексирования зарплаты в %:");
 //        Scanner scanner = new Scanner(System.in);

@@ -3,7 +3,7 @@ import org.w3c.dom.css.Counter;
 import java.util.Scanner;
 
 public class Employee {
-    private String name;
+    private String  name;
     private int section;
     private int salary;
     private static int counter;
